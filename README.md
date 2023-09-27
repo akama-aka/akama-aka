@@ -55,20 +55,14 @@ I've been working in the programming industry since about 2017 but really only s
 ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 
-### Phones I like
-
-![Xiaomi](https://img.shields.io/badge/Xiaomi-%23FF6900.svg?style=for-the-badge&logo=xiaomi&logoColor=white)
 
 ### Teams I am in
 
 |                                      Organization                                       |                  Position                  |              Link               |
 |:---------------------------------------------------------------------------------------:|:------------------------------------------:|:-------------------------------:|
-|                        [StaffHQ](https://discord.gg/vbpMcx3Uz9)                         |                 Co-Founder                 | (https://discord.gg/vbpMcx3Uz9) |
 |                       [Satowa Network](https://satowa-network.eu)                       |                  Manager                   |    https://satowa-network.eu    | 
 |                     [Discord Hilfe](https://discord.gg/tHZ47RbzF5)                      | Administrator | https://discord.gg/tHZ47RbzF5 |
 |                  [The Strategic Place](https://discord.gg/s2hnVgPDWU)                   | Moderator, Developer | https://discord.gg/s2hnVgPDWU |
-|                       [Space Zone](https://discord.gg/fm2RypVC2d)                       | Lead Moderator | https://discord.gg/fm2RypVC2d |
-| [Maydris Entertainment](https://discord.gg/maydris-entertainment-tm-772395118082392074) | Supporter | https://discord.gg/maydris-entertainment-tm-772395118082392074 |
 |     [AuthenticateMe](https://discord.gg/authenticateme-support-708827710272569416)      | Supporter  | https://discord.gg/authenticateme-support-708827710272569416 |
 
 ### My projects
