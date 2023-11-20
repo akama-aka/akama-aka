@@ -1,12 +1,11 @@
 # Heya ![](https://cdn.discordapp.com/emojis/851511871773212694.webp?size=60&quality=lossless)
 <hr>
-I am Slush, born on February 4 and currently living in Austria Vienna. 
-I am a hobby programmer, system administrator and "lawyer" at least I deal a lot with data protection law, media law, Unternehemensgesetz and others. 
-
+I hide under the name Akama Aka, I was born on February 4th and currently live in Vienna, Austria. 
+I am a programmer and hobby system administrator.
 
 ### About me
 
-I've been working in the programming industry since about 2017 but really only since 2021. I really got into programming through Minecraft plugins. Here I had my first contact with the programming language Java. Around 2020 I started programming Discord bots with the library discord.js. From then on I slipped further and further into the web development industry. 
+I've been working in the programming industry since about ~ 2015 but really only since 2021. I really got into programming through Minecraft plugins. Here I had my first contact with the programming language Java. Around 2020 I started programming Discord bots with the library discord.js. From then on I slipped further and further into the web development industry. 
 
 ### Languages I know
 
@@ -55,18 +54,17 @@ I've been working in the programming industry since about 2017 but really only s
 ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 
-
-### Teams I am in
-
-|                                      Organization                                       |                  Position                  |              Link               |
-|:---------------------------------------------------------------------------------------:|:------------------------------------------:|:-------------------------------:|
-|                       [Satowa Network](https://satowa-network.eu)                       |                  Manager                   |    https://satowa-network.eu    | 
-|                     [Discord Hilfe](https://discord.gg/tHZ47RbzF5)                      | Administrator | https://discord.gg/tHZ47RbzF5 |
-|                  [The Strategic Place](https://discord.gg/s2hnVgPDWU)                   | Moderator, Developer | https://discord.gg/s2hnVgPDWU |
-|     [AuthenticateMe](https://discord.gg/authenticateme-support-708827710272569416)      | Supporter  | https://discord.gg/authenticateme-support-708827710272569416 |
-
 ### My projects
-Currently I am co-owner of the website "Staff finder" aka Staff HQ. Staff finder is for servers like Discord, Minecraft, Guilded, ..., servers to provide a place where you can easily register your server without a real company or certificates and then specify whether paid or not paid and much more. This project is also supported by Satowa Network and is still in development. We currently also accept closed beta requests ^^.
+I own, maintain and work on many projects. Most of the projects are currently still private, under development or in maintenance.
+| Project Name | Description | Release | Rank |
+|--------------|-------------|---------|------|
+| Akami Solutions | A better alternative to @cloudflare | draft | CEO |
+| Staff Market | A place to find staff members and Servers | currently discontinued | CEO |
+| YubiLock | A Windows Service that locks your current User as soon as you unplug your Yubi Key | Released | Standalone |
+| WebsiteStatusChecker | A Linux based C# Program that fetches your current IP from Cloudflare and as soon as the ip is not reachable anymore you get notified and the A or CNAME Record will be changed to a secondary server | in development | Standalone | 
+| BSTournament | A BeatSaber Mod to track down your tournament members for better results and Anti Cheat & Analytics results | draft | Standalone |
+| GlobalSentinel | | in development | CPM |
+| Product Key Validation Management Server | A lightweight Product Key Validation Management Server & Addon that validates and creation product keys with specific Hardware Components. | draft | CPM |
 
 ### Stats
 [![Streak](https://github-readme-streak-stats.herokuapp.com/?user=slushuwu&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=f04848&ring=f04848&stroke=FFFFFFFF)]()
