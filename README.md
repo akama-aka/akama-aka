@@ -59,6 +59,7 @@ I own, maintain and work on many projects. Most of the projects are currently st
 | Project Name | Description | Release | Rank |
 |--------------|-------------|---------|------|
 | Akami Solutions | A better alternative to @cloudflare | draft | CEO |
+| SIWFT | Realistic digital website transactional telecommunications endpoint without any relation to real money | Released | CEO |
 | Staff Market | A place to find staff members and Servers | currently discontinued | CEO |
 | YubiLock | A Windows Service that locks your current User as soon as you unplug your Yubi Key | Released | Standalone |
 | WebsiteStatusChecker | A Linux based C# Program that fetches your current IP from Cloudflare and as soon as the ip is not reachable anymore you get notified and the A or CNAME Record will be changed to a secondary server | in development | Standalone | 
