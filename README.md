@@ -1,4 +1,4 @@
-# Heya ![](https://cdn.discordapp.com/emojis/851511871773212694.webp?size=60&quality=lossless)
+# Heya ![](https://cdn.discordapp.com/emojis/851511871773212694.webp?size=40&quality=lossless)
 <hr>
 I hide under the name Akama Aka, I was born on February 4th and currently live in Vienna, Austria. 
 I am a programmer and hobby system administrator.
@@ -33,38 +33,22 @@ I've been working in the programming industry since about ~ 2015 but really only
 ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
 
 ### OS I use
-
+![AlmaLinux](https://img.shields.io/badge/AlmaLinux-0f4266?style=for-the-badge&logo=almalinux&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-### Social Media
-
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)
-![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)
-![Signal](https://img.shields.io/badge/Signal-%23039BE5.svg?style=for-the-badge&logo=Signal&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)
-![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
-![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 
 ### My projects
 I own, maintain and work on many projects. Most of the projects are currently still private, under development or in maintenance.
 | Project Name | Description | Release | Rank |
 |--------------|-------------|---------|------|
-| Akami Solutions | A better alternative to @cloudflare | draft | CEO |
+| Akami Solutions | / | Re Branded | CEO |
 | SIWFT | Realistic digital website transactional telecommunications endpoint without any relation to real money | Released | CEO |
 | Staff Market | A place to find staff members and Servers | currently discontinued | CEO |
 | YubiLock | A Windows Service that locks your current User as soon as you unplug your Yubi Key | Released | Standalone |
 | WebsiteStatusChecker | A Linux based C# Program that fetches your current IP from Cloudflare and as soon as the ip is not reachable anymore you get notified and the A or CNAME Record will be changed to a secondary server | in development | Standalone | 
 | BSTournament | A BeatSaber Mod to track down your tournament members for better results and Anti Cheat & Analytics results | draft | Standalone |
-| GlobalSentinel | | in development | CPM |
+| GlobalSentinel | | draft | CPM |
 | Product Key Validation Management Server | A lightweight Product Key Validation Management Server & Addon that validates and creation product keys with specific Hardware Components. | draft | CPM |
 
 ### Stats
