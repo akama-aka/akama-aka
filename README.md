@@ -16,6 +16,7 @@ I've been working in the programming industry since about ~ 2015 but really only
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
+And I work with ![Docker](https://img.shields.io/badge/docker-0fb6ec.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Databases I use
 ![PostgreSQL](https://img.shields.io/badge/postgres-2f6792?style=for-the-badge&logo=postgresql&logoColor=white)
