@@ -1,5 +1,6 @@
 # Heya ![](https://cdn.discordapp.com/emojis/851511871773212694.webp?size=40&quality=lossless)
-<hr>
+
+
 I hide under the name Akama Aka, I was born on February 4th and currently live in Vienna, Austria. 
 I am a programmer and hobby system administrator.
 
@@ -8,32 +9,30 @@ I am a programmer and hobby system administrator.
 I've been working in the programming industry since about ~ 2015 but really only since 2021. I really got into programming through Minecraft plugins. Here I had my first contact with the programming language Java. Around 2020 I started programming Discord bots with the library discord.js. From then on I slipped further and further into the web development industry. 
 
 ### Languages I know
+![](https://skillicons.dev/icons?i=cs,nodejs,html,js,php,css,scss,idea&perline=4)
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+### Technologies I use
 
-And I work with ![Docker](https://img.shields.io/badge/docker-0fb6ec.svg?style=for-the-badge&logo=docker&logoColor=white)
+![](https://skillicons.dev/icons?i=docker,kubernetes,linux,git,cloudflare,github,postman&perline=4)
+
+### Frameworks
+
+![](https://skillicons.dev/icons?i=discordjs,sentry,dotnet&perline=4)
 
 ### Databases I use
-![PostgreSQL](https://img.shields.io/badge/postgres-2f6792?style=for-the-badge&logo=postgresql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![](https://skillicons.dev/icons?i=postgresql,mysql,cassandra,redis&perline=4)
 
 ### IDE's I use
-
-![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)
-![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
-![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson)
-![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
+![](https://skillicons.dev/icons?i=phpstorm,webstorm,pycharm,rider&perline=4)
 
 ### OS I use
 ![AlpineLinux](https://img.shields.io/badge/AlpineLinux-045980?style=for-the-badge&logo=alpinelinux&logoColor=white)
 ![AlmaLinux](https://img.shields.io/badge/AlmaLinux-0f4266?style=for-the-badge&logo=almalinux&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
+
+### You can find me on
+
+![](https://skillicons.dev/icons?i=twitter,discord,mastodon)
 
 ### My projects
 I own, maintain and work on many projects. Most of the projects are currently still private, under development or in maintenance.
