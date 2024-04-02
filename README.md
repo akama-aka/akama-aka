@@ -9,11 +9,11 @@ I am a programmer and hobby system administrator.
 I've been working in the programming industry since about ~ 2015 but really only since 2021. I really got into programming through Minecraft plugins. Here I had my first contact with the programming language Java. Around 2020 I started programming Discord bots with the library discord.js. From then on I slipped further and further into the web development industry. 
 
 ### Languages I know
-![](https://skillicons.dev/icons?i=cs,nodejs,html,js,php,css,scss,idea&perline=4)
+![](https://skillicons.dev/icons?i=cs,nodejs,html,js,php,css,scss,idea,perl&perline=4)
 
 ### Technologies I use
 
-![](https://skillicons.dev/icons?i=docker,kubernetes,linux,git,cloudflare,github,postman&perline=4)
+![](https://skillicons.dev/icons?i=docker,kubernetes,linux,git,cloudflare,github,postman,nginx&perline=4)
 
 ### Frameworks
 
