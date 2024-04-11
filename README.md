@@ -8,6 +8,10 @@ I am a programmer and hobby system administrator.
 
 I've been working in the programming industry since about ~ 2015 but really only since 2021. I really got into programming through Minecraft plugins. Here I had my first contact with the programming language Java. Around 2020 I started programming Discord bots with the library discord.js. From then on I slipped further and further into the web development industry. 
 
+### This could be me
+
+![could_be_me_new](https://github.com/akama-aka/akama-aka/assets/105487011/c1d32563-b8ae-4c32-abd0-3134bd7ed737)
+
 ### Languages I know
 ![](https://skillicons.dev/icons?i=cs,nodejs,html,js,php,css,scss,idea,perl&perline=4)
 
