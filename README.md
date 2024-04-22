@@ -50,7 +50,8 @@ I own, maintain and work on many projects. Most of the projects are currently st
 | BSTournament | A BeatSaber Mod to track down your tournament members for better results and Anti Cheat & Analytics results | draft | Standalone |
 | GlobalSentinel | | draft | CPM |
 | Product Key Validation Management Server | A lightweight Product Key Validation Management Server & Addon that validates and creation product keys with specific Hardware Components. | draft | CPM |
-
+### Trophies
+[![Trophies](https://github-profile-trophy.vercel.app/?username=akama-aka&theme=dracula&no-frame=false&no-bg=true&margin-w=4)](https://google.com)
 ### Stats
 [![Streak](https://github-readme-streak-stats.herokuapp.com/?user=akama-aka&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=f04848&ring=f04848&stroke=FFFFFFFF)]()
 ![Slush's GitHub stats](https://github-readme-stats.vercel.app/api?username=akama-aka&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF)
